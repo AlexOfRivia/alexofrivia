@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Desktop app developer<br>🏫 Computer Science student at Uniwersytet Łódzki<br>📚 Currently learning SFML and GUI design<br>💡   I'm also interested in photography, tech, cars and playing electric guitar<br>💼 Interested in an internship<br>🎙  Discord: alexzrivii</p>
+<p align="left">💻 Desktop app developer<br>🏫 Computer Science student at Uniwersytet Łódzki<br>📚 Currently learning SFML and GUI design<br>💡   I'm also interested in photography, tech, cars and playing electric guitar<br>💼 Interested in an internship<br>🎙    Discord: alexzrivii</p>
 
 ###
 
