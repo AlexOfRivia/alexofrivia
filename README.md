@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A Passionate app developer from Poland</p>
+<p align="center">A Passionate software developer from Poland</p>
 
 ###
 
