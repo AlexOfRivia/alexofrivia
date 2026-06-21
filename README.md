@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Desktop app developer<br>🏫 Computer Science student at Uniwersytet Łódzki<br>📚 Currently learning Java, Qt and mobile app development<br>💡   I'm also interested in photography, technology, fixing cars and playing electric guitar<br>💼 Interested in an internship<br>🎙    Discord: alexzrivii</p>
+<p align="left">💻 Software Engineer <br>🏫 Computer Science student at Uniwersytet Łódzki<br>📚 Currently improving my skills as a programmer<br>💡   I'm also interested in photography, technology, fixing cars and playing electric guitar<br>💼 Interested in an internship<br>🎙    Discord: alexzrivii</p>
 
 ###
 
